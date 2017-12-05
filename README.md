@@ -14,7 +14,8 @@ as username eric/m123 with ADMIN
 http://localhost:8080/user/article/1
 
 
-
+In intellij go to the RestClientUtil class Run as -> Java Application. 
+Use postman or Jmeter to test CRUD.
 
 
 
